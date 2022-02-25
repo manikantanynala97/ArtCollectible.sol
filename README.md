@@ -1,0 +1,1 @@
+# ArtCollectible.sol
